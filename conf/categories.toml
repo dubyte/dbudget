@@ -1,0 +1,119 @@
+Income = [
+"Income 1",
+"Income 2",
+"Extra income"
+]
+
+Housing = [
+"Mortgage or rent",
+"Second mortgage or rent",
+"Phone",
+"Electricity",
+"Gas",
+"Water and sewer",
+"Cable",
+"Waste removal",
+"Maintenance or repairs",
+"Supplies",
+"Other"
+]
+
+Transportation = [
+"Vehicle 1 payment",
+"Vehicle 2 payment",
+"Bus/taxi fare",
+"Insurance",
+"Licensing",
+"Fuel",
+"Maintenance",
+"Other"
+]
+
+Insurance = [
+"Home",
+"Health",
+"Life",
+"Other"
+]
+
+Food = [
+"Groceries",
+"Dining out",
+"Other"
+]
+
+Children = [
+"Medical",
+"Clothing",
+"School tuition",
+"School supplies",
+"Organization dues or fees",
+"Lunch money",
+"Child care",
+"Toys/games",
+"Other"
+]
+
+Legal = [
+"Attorney",
+"Alimony",
+"Payments",
+"Other"
+]
+
+Savings_investments = [
+"Retirement account",
+"Investment account",
+"College",
+"Other"
+]
+
+Loans = [
+"Personal",
+"Student",
+"Credit card 1",
+"Credit card 2",
+"Credit card 3",
+"Other"
+]
+
+Entertainment = [
+"Video/DVD",
+"CDs",
+"Movies",
+"Concerts",
+"Sporting events",
+"Live theater",
+"Other"
+]
+
+Taxes = [
+"Federal",
+"State",
+"Local",
+"Other"
+]
+
+Personal_care = [
+"Medical",
+"Hair/nails",
+"Clothing",
+"Dry cleaning",
+"Health club",
+"Organization dues/fees",
+"Other"
+]
+
+Pets = [
+"Food",
+"Medical",
+"Grooming",
+"Toys",
+"Other"
+]
+
+Gifts_and_donations = [
+"Charity 1",
+"Charity 2",
+"Charity 3"
+]
